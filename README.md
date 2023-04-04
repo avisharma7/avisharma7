@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aviral Sharma
-- I am learner
+- 👋 Hi, I’m Aviral Sharma.
+- I am a learner.
 - you can reach me at @aviral.np12@gmail.com
 
 
