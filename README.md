@@ -1,5 +1,5 @@
 👋 Hi, I’m @avisharma7
-👀 My primary interest is in DSA as well as in WebDev.
+👀 My primary interest is in DSA as well as in WebDev
 🌱 I’m currently learning AI, ML and Data Science.
 How to reach me?
 portfolio: https://aviralsharma143.netlify.app/
