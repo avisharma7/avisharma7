@@ -12,7 +12,7 @@ Linkedln: https://www.linkedin.com/in/aviral-sharma-b864511b7/
 
 Leetcode: https://leetcode.com/HackHustler/
 
-GeeksForGeeks: https://auth.geeksforgeeks.org/user/aviralnp12/practice
+GeeksForGeeks: https://auth.geeksforgeeks.org/user/aviralnp12
 
-Hackerrank: https://www.hackerrank.com/aviral_np12?hr_r=1
+Hackerrank: https://www.hackerrank.com/avisharma7
 
