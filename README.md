@@ -10,8 +10,6 @@ portfolio: https://aviralsharma143.netlify.app/
 
 Linkedln: https://www.linkedin.com/in/aviral-sharma-b864511b7/
 
-Leetcode: https://leetcode.com/HackHustler/
-
 GeeksForGeeks: https://auth.geeksforgeeks.org/user/aviralnp12
 
 Hackerrank: https://www.hackerrank.com/avisharma7
